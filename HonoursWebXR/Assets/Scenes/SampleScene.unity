@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 2556285}
   m_Layer: 0
   m_Name: Sneakers (1)
-  m_TagString: Untagged
+  m_TagString: Interactable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -234,6 +234,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
@@ -487,6 +492,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 137037042967364456, guid: c61e4de741d37461e85f25866d1ebd31,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8341a12850b640b4a953dc7e4decf76b, type: 2}
+    - target: {fileID: 137859123971994456, guid: c61e4de741d37461e85f25866d1ebd31,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8341a12850b640b4a953dc7e4decf76b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c61e4de741d37461e85f25866d1ebd31, type: 3}
 --- !u!1 &520419375
@@ -705,6 +720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
 --- !u!4 &624651940 stripped
@@ -910,7 +930,7 @@ GameObject:
   - component: {fileID: 944725483}
   m_Layer: 0
   m_Name: Sneakers
-  m_TagString: Untagged
+  m_TagString: Interactable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1190,6 +1210,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
 --- !u!4 &1015814427 stripped
@@ -1280,6 +1305,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
 --- !u!4 &1031929174 stripped
@@ -1299,7 +1329,7 @@ GameObject:
   - component: {fileID: 1095402751}
   m_Layer: 0
   m_Name: Sneakers (3)
-  m_TagString: Untagged
+  m_TagString: Interactable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1512,6 +1542,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
 --- !u!1001 &1231885768
@@ -1595,6 +1630,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
@@ -1685,6 +1725,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
@@ -1782,6 +1827,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SneakerFInalDecimatedPolys
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9929076963c99424c9945451e9f7e8e7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Interactable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9929076963c99424c9945451e9f7e8e7, type: 3}
 --- !u!4 &1744496149 stripped
@@ -1807,7 +1857,7 @@ GameObject:
   - component: {fileID: 2072405734}
   m_Layer: 0
   m_Name: Sneakers (2)
-  m_TagString: Untagged
+  m_TagString: Interactable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
